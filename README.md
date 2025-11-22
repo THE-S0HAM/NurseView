@@ -34,10 +34,6 @@ python pipeline.py
 
 4. Access at `http://localhost:8080`
 
-## Deployment
-
-For Google Cloud Run deployment, use `main.py` as the entry point.
-
 ## Supported Document Types
 
 - Clinical Notes
